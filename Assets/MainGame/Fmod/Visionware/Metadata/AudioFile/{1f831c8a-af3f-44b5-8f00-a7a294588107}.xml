@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{1f831c8a-af3f-44b5-8f00-a7a294588107}">
+		<property name="assetPath">
+			<value>lukas_tvrdon_vehicle_underwater_or_space_resonation_metal_b_062.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>10.608000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{71420eeb-9855-4584-bad4-862ecca1f486}</destination>
+		</relationship>
+	</object>
+</objects>

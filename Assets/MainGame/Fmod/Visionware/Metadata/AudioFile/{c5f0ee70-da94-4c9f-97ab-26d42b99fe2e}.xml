@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{c5f0ee70-da94-4c9f-97ab-26d42b99fe2e}">
+		<property name="assetPath">
+			<value>lukas_tvrdon_space_shuttle_noise_049.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>187.19999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{71420eeb-9855-4584-bad4-862ecca1f486}</destination>
+		</relationship>
+	</object>
+</objects>

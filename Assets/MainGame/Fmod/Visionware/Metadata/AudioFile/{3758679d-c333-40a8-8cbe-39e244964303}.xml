@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{3758679d-c333-40a8-8cbe-39e244964303}">
+		<property name="assetPath">
+			<value>lukas_tvrdon_impact_underwater_or_space_massive_d_036.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.9039999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{71420eeb-9855-4584-bad4-862ecca1f486}</destination>
+		</relationship>
+	</object>
+</objects>

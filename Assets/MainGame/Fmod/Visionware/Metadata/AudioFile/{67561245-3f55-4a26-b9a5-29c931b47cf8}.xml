@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{67561245-3f55-4a26-b9a5-29c931b47cf8}">
+		<property name="assetPath">
+			<value>Blastwave_FX_CarExplosionDebris_HV.132.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.3840000000000003</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{71420eeb-9855-4584-bad4-862ecca1f486}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{402f0fa6-86d5-47fb-819b-57b4177b078f}">
+		<property name="assetPath">
+			<value>Universe_derrota.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>223.05959183673468</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{71420eeb-9855-4584-bad4-862ecca1f486}</destination>
+		</relationship>
+	</object>
+</objects>

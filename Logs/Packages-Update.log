@@ -1,0 +1,24 @@
+
+=== Sat Jun 11 20:27:46 2022
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.2d.pixel-perfect@2.1.0
+  com.unity.2d.sprite@1.0.0
+  com.unity.2d.tilemap@1.0.0
+  com.unity.cinemachine@2.7.4
+  com.unity.postprocessing@2.3.0
+
+=== Sun Aug 13 13:03:43 2023
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.2d.pixel-perfect@2.1.0
+  com.unity.2d.sprite@1.0.0
+  com.unity.2d.tilemap@1.0.0
+  com.unity.cinemachine@2.9.4
+  com.unity.postprocessing@3.2.2

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{dd965926-da15-4b1d-a85f-fe21de280372}">
+		<property name="name">
+			<value>EndOfSessionTime</value>
+		</property>
+		<relationship name="folder">
+			<destination>{049e31e5-f3df-4e6d-93f8-425549cedbab}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{4401bcf3-e449-40c8-9315-4b78428bd2de}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{4401bcf3-e449-40c8-9315-4b78428bd2de}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
